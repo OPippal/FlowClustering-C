@@ -2,6 +2,7 @@
 *.o
 *.out
 flows
+*.dSYM/
 
 # macOS
 .DS_Store
