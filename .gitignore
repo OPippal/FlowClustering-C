@@ -1,0 +1,7 @@
+# Compiled binaries & object files
+*.o
+*.out
+flows
+
+# macOS
+.DS_Store
